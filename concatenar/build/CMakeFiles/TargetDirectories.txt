@@ -1,0 +1,3 @@
+/home/usuario/practicas/p10-string-array-vector/concatenar/build/CMakeFiles/rebuild_cache.dir
+/home/usuario/practicas/p10-string-array-vector/concatenar/build/CMakeFiles/edit_cache.dir
+/home/usuario/practicas/p10-string-array-vector/concatenar/build/CMakeFiles/concatenar.dir

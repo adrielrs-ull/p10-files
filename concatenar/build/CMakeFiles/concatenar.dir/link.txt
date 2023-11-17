@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/concatenar.dir/src/concatenar.cc.o  -o concatenar 
